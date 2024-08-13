@@ -1,0 +1,22 @@
+{
+    "1": {
+        "image": "images/employees_cards/card1.png",
+        "quote": "You made it so simple. My new site is so much faster and easier to work with than my old site.",
+        "name": "Isabella Chavez",
+        "position": "Graphic Designer"
+    },
+
+    "2": {
+        "image": "images/employees_cards/card2.png",
+        "quote": "Simply the best. Better than all the rest. I'd recommend this product to beginners and advanced users.",
+        "name": "Curtis Rhodes",
+        "position": "Digital Marketer"
+    },
+
+    "3": {
+        "image": "images/employees_cards/card3.png",
+        "quote": "Must have book for all, who want to be Product Designer or Interaction Designer.",
+        "name": "Lucas Mann",
+        "position": "Co Founder"
+    }
+}

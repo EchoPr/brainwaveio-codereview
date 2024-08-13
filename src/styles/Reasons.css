@@ -1,0 +1,76 @@
+.reasons {
+    height: 553px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reasons--image {
+    width: 385px;
+    height: 484px;
+
+    margin-right: 180px;
+    margin-top: 69px;
+
+    overflow: hidden;
+    position: relative;
+}
+
+.reasons--image > img {
+    margin-left: 37px;
+}
+
+.reasons--image--circle {
+    width: 312px;
+    height: 312px;
+
+    border-radius: 50%;
+    background-color: #68D585;
+
+    position: absolute;
+    inset: 92px 0 0 0;
+    z-index: -1;
+}
+
+.reasons--content {
+    width: 470px;
+    height: 344px;
+}
+
+.reasons--content > h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.reasons--content > h4 {
+    font-size: 19px;
+    font-weight: normal;
+
+    line-height: 32px;
+    margin-top: 19px;
+}
+
+.reasons--content--checkers {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-top: 19px;   
+}
+
+.reasons--content--checker {
+    display: flex;
+    align-items: center;
+
+    width: 50%;
+    margin-top: 25px;
+}
+
+.reasons--content--checker > img {
+    margin-right: 15px;
+}
+
+.reasons--content--checker > h4 {
+    font-size: 19px;
+    font-weight: bold;
+}

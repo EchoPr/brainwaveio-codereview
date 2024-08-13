@@ -1,0 +1,22 @@
+{
+    "1": {
+        "label": "Digital Marketing",
+        "image": "images/services_cards/card1.png",
+        "description": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page.",
+        "link": "#"
+    },
+
+    "2": {
+        "label": "Business Growth",
+        "image": "images/services_cards/card2.png",
+        "description": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page.",
+        "link": "#"
+    },
+
+    "3": {
+        "label": "Content Marketing",
+        "image": "images/services_cards/card3.png",
+        "description": "With lots of unique blocks, you can easily build a page without coding. Build your next landing page.",
+        "link": "#"
+    }
+}

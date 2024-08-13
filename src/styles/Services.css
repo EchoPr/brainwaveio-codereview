@@ -1,0 +1,53 @@
+.services {
+    height: 769px;
+    background-color: #F4F7FA;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.services--title-text {
+    width: 769px;
+    height: 129px;
+
+    margin-top: 90px;
+    margin-bottom: 62px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.services--title-text > h1 {
+    font-size: 36px;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+.services--title-text > h4 {
+    font-size: 19px;
+    font-weight: normal;
+
+    text-align: center;
+
+    line-height: 32px;
+    width: 589px;
+    margin-top: 17px;
+}
+
+.services--cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-card {
+    margin-right: 31px;
+}
+
+.service-card:last-child {
+    margin-right: 0;
+}

@@ -1,0 +1,25 @@
+.get-started {
+    height: 169px;
+
+    background-color: #68D585;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-started > h1 {
+    font-size: 32px;
+    font-weight: bold;
+
+    color: #FFFFFF;
+
+    margin-right: 35px;
+}
+
+.get-started > button {
+    width: 202px;
+    height: 50px;
+    background-color: #FFFFFF;
+    color: #161C2D;
+}

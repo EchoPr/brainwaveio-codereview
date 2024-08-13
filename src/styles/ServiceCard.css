@@ -1,0 +1,46 @@
+.service-card {
+    width: 350px;
+    height: 377px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.service-card > h1 {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.service-card > img {
+    width: 100%;
+    height: 165px;
+
+    margin-top: 21px;
+}
+
+.service-card > h4 {
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 32px;
+
+    margin-top: 25px;
+}
+
+.service-card--link {
+    width: 123px;
+    height: 32px;
+
+    display: flex;
+    align-items: center;
+    justify-items: space-between;
+
+    margin-top: 15px;
+}
+
+.service-card--link > a {
+    font-size: 17px;
+    font-weight: bold;
+
+    color: #473BF0
+}

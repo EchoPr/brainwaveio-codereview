@@ -1,0 +1,48 @@
+.about-cards {
+    height: 742px;
+}
+
+.about-cards--content {
+    width: 1110px;
+    height: 537px;
+    margin: 85px auto 120px auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-cards--content > h1 {
+    font-size: 36px;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+.about-cards--content > h4 {
+    font-size: 19px;
+    font-weight: normal;
+
+    text-align: center;
+    width: 589px;
+
+    line-height: 32px;
+    margin-top: 17px;
+}
+
+.about-cards--cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 56px;
+}
+
+.about-cards--cards > div {
+    margin-right: 30px;
+}
+
+.about-cards--cards > div:last-child {
+    margin-right: 0;
+}
+

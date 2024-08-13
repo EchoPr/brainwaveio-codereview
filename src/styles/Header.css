@@ -1,0 +1,31 @@
+.header {
+    margin: 18px 47px 0 47px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header > h2 {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Rubik;
+}
+
+.header--tabs-items {
+    display: inline-block;
+}
+
+.header--tabs-item {
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 43px;
+    display: inline-block;
+}
+
+.header--button-free-quote {
+    width: 168px;
+    height: 45px;
+
+    display: inline-block;
+}

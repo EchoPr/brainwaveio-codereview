@@ -1,0 +1,94 @@
+.hero {
+    background-image: url('hero_background.png');
+    height: 678px;
+    overflow: hidden;
+}
+
+.hero--content {
+    display: flex;
+}
+
+.hero--content--info {
+    width: 474px;
+    height: 362px;
+
+    margin: 124px 0 0 243px;
+}
+
+.hero--content--info > h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.hero--content--info > h4 {
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 32px;
+
+    margin-top: 15px;
+}
+
+.hero--content--info--button {
+    width: 200px;
+    height: 59px;
+
+    margin-top: 30px;
+}
+
+.hero--content--info--watch-button {
+    font-size: 13px;
+    font-weight: bold;
+    height: 1em;
+
+    margin-top: 28px;
+
+    display: flex;
+    align-items: center;
+}
+
+.hero--content--info--watch-button > img {
+    margin-right: 10px;
+}
+
+.hero--content--image {
+    width: 467px;
+    height: 636px;
+
+    margin-left: auto;
+    margin-top: 50px;
+    margin-right: 213px;
+
+    overflow: hidden;
+}
+
+.hero--content--image--circle {
+    background-color: rgba(245, 75, 75, .55);
+    border-radius: 75px;
+    height: 150px;
+    width: 150px;
+
+    position: relative;
+    bottom: 120px;
+    float: right;
+}
+
+.hero--content--image--rectangle {
+    width: 170px;
+    height: 170px;
+    border: 10px solid #68D585;
+    border-radius: 30px;
+    rotate: -12deg;
+
+    position: relative;
+    bottom: 360px;
+    left: 16px;
+    z-index: -1;
+}
+
+.hero--content--image--dots {
+    position: relative;
+    bottom: 700px;
+    left: 275px;
+    z-index: -1;
+}
+

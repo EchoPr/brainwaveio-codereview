@@ -1,0 +1,67 @@
+.experience {
+    margin: 120px 255px 117px 244px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience--about {
+    width: 346px;
+    height: 290px;
+
+    margin-right: 56px;
+}
+
+.experience--about > h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.experience--about > h4 {
+    font-size: 19px;
+    font-weight: normal;
+
+    line-height: 32px;
+    margin-top: 25px;
+}
+
+.experience--about > button {
+    width: 203px;
+    height: 50px;
+
+    margin-top: 31px;
+}
+
+.experience > img {
+    margin-right: 77px;
+}
+
+.experience--statistics {
+    width: 314px;
+    height: 414px;
+}
+
+.experience--statistics--block {
+    width: 314px;
+    height: 118px;
+
+    margin-top: 30px;
+}
+
+.experience--statistics--block:first-child{
+    margin-top: 0;
+}
+
+.experience--statistics--block > h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.experience--statistics--block > h4 {
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 32px;
+
+    margin-top: 10px;
+}

@@ -1,0 +1,18 @@
+.alert {
+    height: 96px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #161C2D;
+}
+
+.alert > span {
+    color: #FFFFFF;
+    margin-left: 11px;
+}
+
+.alert > span > u {
+    color: #FFFFFF;
+}
